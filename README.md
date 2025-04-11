@@ -1,5 +1,5 @@
-### 2D OHT
-## The author of this repository is Jiong Zhu.
+## 2D OHT
+# The author of this repository is Jiong Zhu.
 
 This repository contains data related to the use of IES inversion, including reference random fields and 100 initial random fields generated for a two-dimensional OHT model.
 
